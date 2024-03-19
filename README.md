@@ -1,5 +1,7 @@
 # Ex03 Time Table
 ## Date:14/03/2024
+## NAME : NITHISH KUMAR S
+## REG NO: 212223240109
 
 ## AIM
 To write a html webpage page to display your slot timetable.
