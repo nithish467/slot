@@ -141,8 +141,6 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-## NAME:NITHISH KUMAR S
-## REG NO:212223240109
 ![alt text](<Screenshot 2024-03-14 154155.png>)
 
 ## RESULT
